@@ -1,0 +1,21 @@
+Session Title:
+
+	Extending JSON for Cross-Domain Data Interchange Today.
+
+
+Session Description:
+
+	JSON is emerging as the data interchange format of choice for the web, but it's full
+	potential is hampered by browser's same-origin policy and a lack of JSON data definition
+	standards.
+
+	This session introduces a new way to define JSON data for simplified, automated, and
+	cross-domain data interchange in all ECMAScript-262-compatible environments.
+
+	Attend and discover how to:
+
+	- Define cross-domain JSON.
+	- Consume cross-domain JSON without server proxies, JSON/P or XHR.
+	- Request cross-domain JSON from existing JSON/P services.
+	- Add cross-domain JSON support to existing JSON services.
+	- Extend JSON for richer and/or more structure data definition.

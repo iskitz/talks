@@ -1,0 +1,5 @@
+Michael Lee, Creator, Ajile
+
+Michael Lee is the creator of the Ajile JavaScript Library and a Solutions Engineer at Canon U.S.A., Inc. At Canon he product manages all locally created embedded multi-functional software solutions and is the creator of Canon's flagship Authorized Send solution.
+
+Michael has been captivated by JavaScript and Web Development for over ten years and constantly works to discover and enhance its capabilities. He is a forward thinker currently focused on extending Web Development to create more automated and intuitive systems to enhance the human experience.

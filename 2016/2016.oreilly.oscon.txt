@@ -1,0 +1,32 @@
+TITLE
+
+  ionify: Implict Object Notation Invented For You
+
+
+DESCRIPTION
+
+  ionify is a new software notation and design pattern that enables defining
+  data and functionality modules using JavaScript's object and array literal
+  notation and implicit type conversion. This talk:
+  
+  + Introduces ionify
+  + Explains how it works
+  + Demonstrates some of its exciting applications, like defining new languages
+
+
+ABSTRACT
+
+  ionify is a software notation and design pattern that enables defining data
+  and functionality modules. It's built on three of JavaScript's earliest and
+  enduring concepts:
+  
+  + Array  Literals
+  + Object Literals
+  + Implict Type Conversion
+  
+  ionify modules, ions, can be anonymous or named objects and are observable
+  and self-contained; attributes which make them highly interoperable and
+  well-suited for data exchange and custom language definition. ions's keys
+  and values are observable via the evaluation flow JavaScript follows during
+  implict conversion of objects to primitive types. This observation enables
+  deriving meaning from those keys and values and thus defining languages.

@@ -1,0 +1,120 @@
+About Technology Presentations
+
+
+TITLE
+
+  The title embodies why anyone should care about a new programming language
+
+
+DESCRIPTION
+
+  The description elaborates why the audience should care. Descriptions are
+  also a good place to describe what attendees will learn.
+
+
+ABSTRACT
+
+  The abstract contains more specific details and demonstrates deep knowledge
+  of the topic.
+
+
+
+
+
+
+Proposal title*
+
+Description* (brief overview for marketing purposes, max. length 400 characters—about 65 words)
+
+
+
+
+Topic (Please choose the one topic most relevant to your proposal) *
+ Web Foundations: CSS, HTML, JS, Node
+ Frameworks and Libraries
+ Future JS and Functional
+ Web services and APIs
+
+Secondary topics (Please choose up to 2 secondary topics most relevant to your proposal)
+ Hands-on
+ Technical
+
+Session type*
+40 minutes
+
+Abstract* (Longer, more detailed description of your presentation to help the program committee understand what you will cover. If your proposal is chosen, this is the description that will appear on the website. Note that our copywriters may edit it for consistency and O'Reilly voice.)
+
+preview read formatting help
+
+
+Who is this presentation for? *
+(Job titles/functions and/or experience, for instance)
+
+
+Audience level *
+
+What's the takeaway for the audience? *
+List the main ideas and/or skills attendees will learn from your presentation.
+
+
+Prerequisite knowledge for this presentation *
+This information is crucial for attendees. Please describe what skills and knowledge attendees need to have in order to get the most from your talk.
+
+
+Is this session more conceptual or how-to? *
+Conceptual
+
+
+Hardware and/or installation requirements for attendees
+If you are submitting a proposal for a 3-hour tutorial, what materials or downloads will attendees need in advance of your tutorial (e.g., a GitHub repository, most current version of MySQL, a laptop, etc.)?
+
+NONE, N/A
+
+Please let us know if you have any special equipment needs for your presentation.
+(Note: Each presentation room will have a podium, projector, 16:9 screen, head table, microphone, ethernet connection, and wifi.)
+
+
+Video URL
+While not required, we strongly encourage you to provide at least one video clip of the speaker. If you don’t have video of the speaker in action at an event, please create a very short clip (2-3 minutes) proposing the session. We don’t care about the quality of the video; we care about the quality of the speakers. If your video isn’t already online, post it to a third-party site (YouTube is fine), and then share the link with us.
+
+
+O'Reilly Author
+If you are an author or content contributor at O’Reilly, please fill in the name of your main O’Reilly editorial contact.
+
+N/A
+
+Did someone recommend or encourage you to submit a proposal?
+If so, please let us know who sent you:
+
+N/A
+
+Diversity *
+Diversity is one of the factors we seriously consider when reviewing proposals as we seek to broaden our speaker roster.
+
+Does your presentation have the participation of a woman, person of color, person with disabilities, or member of another group often underrepresented at tech conferences?
+
+YES, I'm african American
+
+Travel & other expense reimbursements
+If your proposal is chosen, would you need assistance with hotel or travel related expenses (for example, because you are self-employed)? Please note: Your answer to this question will have no impact on the committee’s review of your proposal.
+
+NO
+
+If so, please describe.
+
+Additional notes
+Any other information you would like the program committee and/or conference organizers to know?
+
+
+Code of Conduct
+
+We expect all participants, including speakers and presenters, to follow our Code of Conduct, the core of which is this: an O'Reilly conference should be a safe and productive environment for everyone. Please be sure that your presentation, including all supporting materials and informal commentary, is welcoming and respectful to all participants, regardless of race, gender, gender identity and expression, age, sexual orientation, disability, physical appearance, national origin, ethnicity, religion, or political affiliation.
+
+By submitting a proposal, I (and any other presenters included in this speaking proposal) agree to follow the conference Code of Conduct. Read more »
+
+You must now add one or more speakers before you can submit this proposal.
+
+Add speaker
+
+
+©2017, O'Reilly Media, Inc.  •  (800) 889-8969 or (707) 827-7019  •  Monday-Friday 7:30am-5pm PT  •  All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.  •  confreg@oreilly.com

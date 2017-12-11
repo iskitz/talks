@@ -1,0 +1,76 @@
+What are Lightning Rounds?:
+Lightning Rounds are 5 minute sessions designed to showcase new cool Ajax
+stuff, cutting edge technology, new solutions and emerging trends; it is
+also an opportunity to get new information out to the community.  Speakers
+are limited to 3-5 slides.
+
+The Perks:
+The Ajax Experience attracts the very best experts in the field.  In
+addition to free registration to the conference (for speakers unaffiliated
+with a commercial Ajax vendor), as a speaker, you will enjoy the prestige
+and satisfaction of presenting to the most active and committed members of
+the profession.
+
+Speaker Information:
+
+Name:			Michael Lee
+Company Name:		n/a
+Email Address:		tae@iskitz
+City/State/Country:     New York/New York/USA
+Website:		http://ajile.net/
+
+Topic :(please check one)
+
+___Design and User Experience
+_X_JavaScript
+___Graphics and effects
+___Frameworks
+___Architecture
+___Security
+___Emerging
+___Building Quality Software
+
+
+1. Session title:
+
+	Cross-domain, Client-side JSON Exchange
+
+
+2. Session description:
+
+	Introducing a new client-side technique for exchanging JSON across domains.
+
+
+3. What development problem(s)/challenge(s) will your session address?
+
+	Developers are currently limited to server-side proxies, same-domain XHR, and
+	JSON/P techniques for accessing remote JSON data. I will introduce a new
+	solution to those limitations.
+
+
+4. What are you addressing that represents or indicates a new or emerging trend? And why do attendees need to be aware of this information TODAY?
+
+	JSON is fast becoming the Web's data exchange format of choice. I will
+    provide developers with an immediate, browser-compatible solution to
+    their current cross-domain JSON exchange challenges.
+
+Attachments:
+
+Bio	    : Michael.Lee.Bio.txt
+Photo	: Michael.Lee.jpg
+Proposal: Michael Lee - Lightning Round Proposals Form.txt
+
+
+What to submit:
+-  Your bio: 100 words or less with information that ties your presentation to your area of expertise.
+
+-  Your photo: jpeg file preferred.
+
+-  Lightning Round Proposals Form
+
+Where to Send Proposals:
+Email your proposal form to ajaxexperience@techtarget.com
+
+Thanks for your interest in speaking at the show!
+
+Dion and Ben

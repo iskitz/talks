@@ -1,0 +1,54 @@
+Proposal: "Introducing jsonXD: JSON-eXtended Dataflow"
+
+Status
+Unfortunately, this proposal has not been accepted.
+
+Proposer
+Mike Lee (mlee@iskitz.com)
+
+Speakers
+Mike Lee (mlee@iskitz.com)
+
+
+Description
+
+jsonXD is a JavaScript library that allows defining *and* observing data using
+JSON, JavaScript Array and Object literal syntax. Data can be observed by
+defining listeners based on its structure which allows both data & listeners
+to be loosely coupled and highly encapsulated. This talk presents and
+discusses using jsonXD for natural language programming, message passing and
+as a module system.
+
+Session type: Session
+
+Topics: Pure Code and JavaScript
+
+Abstract
+
+jsonXD is a JavaScript library that allows defining and observing data using
+JSON, JavaScript Array and Object literal syntax:
+
+    JSON : +{’id’:‘json data’}
+
+    Array : +[{id:’data’}, {id:‘more data’}]
+
+    Object: +{id:‘object literal data’}
+
+It is compatible with all browsers and JavaScript runtimes supporting
+ECMAScript 3 or later; i.e. Node.js, JavascriptCore, v8, Rhino.
+
+Data observation is accomplished by listening for data matching a given
+structure. A reference to the data is shared with listeners whenever data
+matching the listener’s criteria becomes available. This allows both data
+and their listeners to be loosely coupled and highly encapsulated. This
+flexibility simplifies writing code that can be loaded asynchronously and
+ran sequentially and/or concurrently.
+
+jsonXD can be used standalone or with existing code as a module system, for
+message passing, cross-domain data exchange and even natural language
+programming:
+
+    +[‘load moduleA and moduleB then do actionC.’];
+
+This talk will explore these and other applications.
+ 

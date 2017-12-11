@@ -1,0 +1,18 @@
+About Technology Presentations
+
+
+TITLE
+
+  The title embodies why anyone should care about a new programming language
+
+
+DESCRIPTION
+
+  The description elaborates why the audience should care. Descriptions are
+  also a good place to describe what attendees will learn.
+
+
+ABSTRACT
+
+  The abstract contains more specific details and demonstrates deep knowledge
+  of the topic.
