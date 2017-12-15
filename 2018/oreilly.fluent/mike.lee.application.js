@@ -12,19 +12,38 @@
       earlier but only got notified a week ago and spent my time working on my
       project instead of this proposal.
 
-      THEY EXTENDED THE DEADLINE UNTIL MONDAY, 2017.12.11 !!!
+      O'Reilly Media EXTENDED THE DEADLINE UNTIL MONDAY, 2017.12.11 !!!
 
               https://twitter.com/getify/status/939513336932261888
 
-      So @ 2017.12.08.16:54:04-08: I successfully submitted my application...
+      So @ 2017.12.09.16:54:04-08: I successfully submitted my application,
+      then recorded my application's video:
+      
+              https://youtu.be/H4P8phee9Q0
+     
       and gave thanks!
 
               https://twitter.com/iskitz/status/939665245986942977
+              
+       Then redid my application's video to be more energetic:
+       
+              https://youtu.be/qErb8dYPyqg
+       
+       Then, read this the next day...after the deadline
+       
+              https://twitter.com/getify/status/940253208768909312
+       
+       and replied
+       
+              https://twitter.com/iskitz/status/940544134229532673
+              
+       so, we'll see. Should know in January if my talk's accepted
+       or not. In the mean time, back to ionify!
     `
     ]
 
 
-, SITE
+, LINKS
 :   [ "https://conferences.oreilly.com/fluent/fl-ca/user/proposal/index/cfp/606"
     , "https://conferences.oreilly.com/fluent/fl-ca/user/proposal/propose/cfp/606/65974"
     ]
@@ -131,20 +150,22 @@ He's been a Web & JavaScript fan for more than two decades and has worked profes
       ions are expressions that activate objects via implicit type conversion.
       Interacting with that implicit type conversion enables writing data & code
       as independently observable & notifiable objects. Think JSON, prefixed
-      with a +, -, or ~. That's it.
+      with a +, -, or ~ that enables independently observing & notifying those
+      objects. That's it.
 
       So why's that useful?
 
-      Well. Together, ions and ionify enable exploring and experimenting with
+      Together, ions and ionify enable exploring and experimenting with
 
         + domain-specific languages
         + literate, modular, and event-driven programming
         + and a whole lot more.
 
-      I think that's great and definitely worth sharing. Hope you do too :-)
+      I think that's great and it's been a whole lot of fun and I'd love to
+      share that with you :-)
 
-      If you wanna know more? Check out ionify on github. Also, Twitter. Come
-      find me there @ iskitz, that's i...s...k...i...t...z.
+      If you'd like to know more? Find ionify on GitHub or find me on Twitter.
+      I'm @ iskitz, that's i...s...k...i...t...z.
 
       See ya!
     `]
@@ -154,70 +175,5 @@ He's been a Web & JavaScript fan for more than two decades and has worked profes
 :   [`
     `]
 
-
-, PLEA
-:   `Hi Ally,
-
-I take full responsibility and understand that I missed the deadline but if it’s at all possible I’d like to still submit my application to speak at Fluent 2018. Here’re my details:
-
-*Proposal title:*
-
-ionify; expressing ideas via simple object interaction, observation & notification
-
-
-*Description:*
-
-Digital expression can, and should be, as natural as speech and text. ions & ionify make exploring what’s possible fun. ions are implicit object notations & ionify is ions invented for you, a JavaScript API that facilitates expressing ideas via simple object interaction, observation & notification. This talk intros and demos how their practical application simplifies various programming scenarios.
-
-
-*Topic:* Future JS and Functional
-
-*Secondary topics:* Hands-on & Technical
-
-*Session Type:* 40-minute session
-
-*Abstract:*
-
-Digital expression can and should be, as natural as speech and text. *"ions":https://github.com/ionify/ionify/blob/public/info/ion.md* & *"ionify":https://github.com/ionify/ionify/blob/public/README.md* make exploring what’s possible fun.
-
-*ions* are *implicit object notations* & *ionify* is *ions invented for you*, a flexible, unobtrusive & novel JavaScript API that facilitates expressing ideas via simple object interaction, observation & notification.
-
-This talk introduces both and demonstrates how their practical application simplifies various programming scenarios via exploration of and experimentation with domain-specific languages and multiple programming paradigms.
-
-
-*Who is the presentation for?*
-
-JavaScript Developers & anyone interested in, but intimidated or frustrated by programming.
-
-
-*Audience Level:* Intermediate
-
-
-*List the main ideas and/or skills attendees will learn from your presentation.*
-
-+ JavaScript’s flexibility; how type coercion facilitates language exploration.
-+ A new style of programming with JS
-+ Literate, modular & event-driven programming
-
-
-*Prerequisite knowledge for this presentation*
-
-Basic familiarity with or awareness of JavaScript, JSON & programming.
-
-
-*Is this session more conceptual or how-to?*
-
-Conceptual
-
-
-*Diversity*
-
-Yes, I’m an African American male.
-
-
-*Travel & other expense reimbursements*
-
-None; I’m local to San Jose.
-`
 }
 ;
